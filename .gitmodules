@@ -1,4 +1,0 @@
-[submodule "repository"]
-	path = repository
-	url = https://github.com/MailCore/mailcore2
-	branch = master
