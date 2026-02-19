@@ -1,1 +1,0 @@
-../../src/objc/abstract/MCOAbstractPart.h

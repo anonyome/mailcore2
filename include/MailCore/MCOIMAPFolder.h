@@ -1,1 +1,0 @@
-../../src/objc/imap/MCOIMAPFolder.h

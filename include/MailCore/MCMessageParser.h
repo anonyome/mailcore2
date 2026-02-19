@@ -1,1 +1,0 @@
-../../src/core/rfc822/MCMessageParser.h

@@ -1,1 +1,0 @@
-../../src/objc/nntp/MCONNTPGroupInfo.h

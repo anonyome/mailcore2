@@ -1,1 +1,0 @@
-../../src/core/nntp/MCNNTPProgressCallback.h

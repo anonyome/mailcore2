@@ -1,1 +1,0 @@
-../../src/core/provider/MCMailProvider.h

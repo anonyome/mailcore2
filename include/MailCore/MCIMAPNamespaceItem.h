@@ -1,1 +1,0 @@
-../../src/core/imap/MCIMAPNamespaceItem.h

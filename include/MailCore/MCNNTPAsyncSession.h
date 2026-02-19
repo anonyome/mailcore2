@@ -1,1 +1,0 @@
-../../src/async/nntp/MCNNTPAsyncSession.h

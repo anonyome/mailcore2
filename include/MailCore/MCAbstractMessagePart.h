@@ -1,1 +1,0 @@
-../../src/core/abstract/MCAbstractMessagePart.h

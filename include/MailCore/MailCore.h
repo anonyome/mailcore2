@@ -1,1 +1,0 @@
-../../src/MailCore.h
